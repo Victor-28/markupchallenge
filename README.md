@@ -2,24 +2,24 @@
  _Be strong and courageous_
 
 
-Inline-style:
+
 ![alt text](https://media.licdn.com/dms/image/C5603AQEsm6rEoTZZTQ/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=L15fUc0z5dnTOCWKeBx77HYQriiDKUblhD2xd3U8w6g)
 #### Victor is a junior web developer who is ready to learn and explore
 
 
 
 
-information
---- | --- |
-Birthday 		| 28/06 	|
-Gender   		| Male	 	|
+|information | |
+| --- | --- |
+|Birthday 		| 28/06 	|
+| Gender   		| Male	 	|
 Favourite-color 	|Light-blue	|
 Favourite-food		|Continental	|
 Pinneapple of pizza	|No		|[ ]
 
 
 
-#### Hobbies
+####Hobbies
 
 * Music
   *R&B, Hip-hop and Salsa
