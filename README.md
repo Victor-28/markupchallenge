@@ -40,6 +40,6 @@ I love to motivate, encourage and help people around me.
 This happened on my first day in the driving school when I was asked to drive a car, its was really horible because all my body was shaking and I was nervous. But know I can drive anywhere now.
 
 
-[<< previous](https://www.google.com "Tim") || Victor ||[next >>](https://www.google.com "Walid")
+[<< previous](https://github.com/Tim-Smet/Markdown "Tim") || Victor ||[next >>](https://www.google.com "Walid")
 
 
