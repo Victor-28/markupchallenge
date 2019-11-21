@@ -22,7 +22,9 @@ Pinneapple of pizza	|No		|[ ]
 #### Hobbies
 
 * Music
-  * R&B, Hip-hop and Salsa
+  * R&B 
+  * Hip-hop,
+  * Salsa
   * Afro cubana
 * Movie
   * Action movie
@@ -37,9 +39,9 @@ I love to motivate, encourage and help people around me.
 
 
 #### Little story about myself
-This happened on my first day in the driving school when I was asked to drive a car, its was really horible because all my body was shaking and I was nervous. But know I can drive anywhere now.
+This happened on my first day in the driving school when I was asked to drive a car, its was really horrible because all my body was shaking and I was nervous. But now I can drive anywhere.
 
 
-[<< previous](https://github.com/Tim-Smet/Markdown "Tim") || Victor ||[next >>](https://www.google.com "Walid")
+[<< previous](https://github.com/Tim-Smet/Markdown "Tim") || Victor ||[next >>](https://github.com/walid1209/challenge-markdownalid")
 
 
